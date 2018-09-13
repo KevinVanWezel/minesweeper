@@ -1,0 +1,6 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="GameManger" preserve="all"/>
+<type fullname="MineChance" preserve="all"/>
+</assembly>
+</linker>
